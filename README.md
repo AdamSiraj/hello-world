@@ -1,2 +1,1 @@
-# hello-world
-my repository
+I have decided to learn
